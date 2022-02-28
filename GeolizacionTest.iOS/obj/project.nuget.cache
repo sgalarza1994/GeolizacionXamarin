@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/z/dOebjf4UzKW9vBhXM6hGDGEMqawLy2dKb2WOgUcqOLhBQGSakPsSKKc5DA9PSRarT35Qn3Fxb92N2SExzA==",
+  "success": true,
+  "projectFilePath": "/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest.iOS/GeolizacionTest.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/stevengalarza/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
+    "/Users/stevengalarza/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/stevengalarza/.nuget/packages/xam.plugin.geolocator/4.5.0.6/xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
+    "/Users/stevengalarza/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/stevengalarza/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

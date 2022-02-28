@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7E2D98C2-E128-4ED1-850A-D18C5814BC58}|Default">
+  <MonoDevelop.Ide.ItemProperties.GeolizacionTest.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GeolizacionTest/MainPage.xaml">
+    <Files>
+      <File FileName="GeolizacionTest/MainPage.xaml.cs" Line="16" Column="19" />
+      <File FileName="GeolizacionTest/MainPage.xaml" Line="6" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GeolizacionTest" expanded="True">
+            <Node name="GeolizacionTest" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GeolizacionTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GeolizacionTest.Android FirstBuild="True" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

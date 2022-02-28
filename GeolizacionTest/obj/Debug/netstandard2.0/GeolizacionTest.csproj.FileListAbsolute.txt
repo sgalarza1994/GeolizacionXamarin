@@ -1,0 +1,15 @@
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/bin/Debug/netstandard2.0/GeolizacionTest.deps.json
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/bin/Debug/netstandard2.0/GeolizacionTest.dll
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/bin/Debug/netstandard2.0/ref/GeolizacionTest.dll
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/bin/Debug/netstandard2.0/GeolizacionTest.pdb
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.csproj.AssemblyReference.cache
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.AssemblyInfoInputs.cache
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.AssemblyInfo.cs
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.csproj.CoreCompileInputs.cache
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.dll
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/ref/GeolizacionTest.dll
+/Users/stevengalarza/Projects/Xamarin/GeolizacionTest/GeolizacionTest/obj/Debug/netstandard2.0/GeolizacionTest.pdb
